@@ -1,0 +1,5 @@
+_pycache_
+.venv
+.git
+app/back/logs
+app/back/_pycache_
